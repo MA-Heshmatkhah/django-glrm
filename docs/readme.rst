@@ -24,7 +24,7 @@ you can install Django Global Login Required Middleware using ``pip``::
 
 Usage
 _____
-To install this app, you should add ``'global_login_required.LoginRequiredMiddleware'`` to ``settings.MIDDLEWARE``
+To install this app, you should add ``'global_login_required.GlobalLoginRequiredMiddleware'`` to ``settings.MIDDLEWARE``
 
 .. code-block:: python
 
